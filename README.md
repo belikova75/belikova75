@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @belikova75
+- 👋 Hi, I’m Nataliia
 - 👀 I’m interested in everything around tech 
 - 🌱 I’m currently learning web development and AI
 - 💞️ I’m looking to collaborate on AI developing
